@@ -2,7 +2,7 @@
 
 > Seamlessly integrate ElevenLabs' powerful conversational AI into your Framer projects
 
-[![Made for Framer](https://badges.framer.com/made-for-framer.svg)](https://www.framer.com)
+This is an unofficial implementation. I am not currently affiliated with either Eleven Labs or Framer.
 
 This unofficial integration brings the magic of [ElevenLabs' conversational AI](https://elevenlabs.io/conversational-ai) directly into your Framer workflow, enabling rich, interactive voice experiences with just a few clicks.
 
