@@ -1,14 +1,14 @@
-# Eleven Labs x Framer 🎭🔊
+# ElevenLabs x Framer 🔊
 
 > Seamlessly integrate ElevenLabs' powerful conversational AI into your Framer projects
 
-This is an unofficial implementation. I am not currently affiliated with either Eleven Labs or Framer.
+This is an unofficial implementation. I am not currently affiliated with either ElevenLabs or Framer.
 
 This unofficial integration brings the magic of [ElevenLabs' conversational AI](https://elevenlabs.io/conversational-ai) directly into your Framer workflow, enabling rich, interactive voice experiences with just a few clicks.
 
 ## 🌟 Explore ElevenLabs
 
-Discover ElevenLabs' full suite of AI voice products at [elevenlabs.io](https://elevenlabs.io):
+Discover ElevenLabs' full suite of AI voice products at [ElevenLabs.io](https://elevenlabs.io):
 
 - **Voice Synthesis** - Create ultra-realistic AI voices
 - **Voice Design** - Professional tools for voice creation
