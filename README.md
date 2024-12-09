@@ -1,11 +1,39 @@
 # Eleven Labs x Framer 🎭🔊
 
-This is an unofficial integration between ElevenLabs and Framer, consisting of:
+> Seamlessly integrate ElevenLabs' powerful conversational AI into your Framer projects
 
-- A Framer Plugin to add conversational AI widgets (src/*) 🤖
-- A shareable Code Component for embedding ElevenLabs conversational AI widget that can be visualised in the framer console (CodeComponent.tsx)🎙️
+[![Made for Framer](https://badges.framer.com/made-for-framer.svg)](https://www.framer.com)
 
-## Plugin Development
+This unofficial integration brings the magic of [ElevenLabs' conversational AI](https://elevenlabs.io/conversational-ai) directly into your Framer workflow, enabling rich, interactive voice experiences with just a few clicks.
 
-Run the plugin development server:
+## 🌟 Explore ElevenLabs
+
+Discover ElevenLabs' full suite of AI voice products at [elevenlabs.io](https://elevenlabs.io):
+
+- **Voice Synthesis** - Create ultra-realistic AI voices
+- **Voice Design** - Professional tools for voice creation
+- **Speech-to-Speech** - Instant voice cloning and translation
+- **Conversational AI** - Build engaging voice-enabled agents
+
+## ✨ Features
+
+### 🔌 Framer Plugin
+A simple plugin that lets you:
+- Add conversational AI widgets with a simple UI
+- Manage multiple conversational AI agents across your project
+
+### 🎯 Code Component 
+A drop-in Code Component that enables:
+- Visual preview in the Framer console
+- Easy embedding of ElevenLabs conversational AI
+- Full customization capabilities
+
+## 🚀 Getting Started
+
+### Plugin Development
+
+To start the development server:
+```sh
 pnpm run dev
+```
+To open the plugin in Framer, follow the quick start guide available at [Framer Plugin Quick Start](https://www.framer.com/developers/plugins/quick-start).
