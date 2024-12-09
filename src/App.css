@@ -1,5 +1,9 @@
 /* Your Plugin CSS */
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 main {
     display: flex;
     flex-direction: column;
@@ -7,4 +11,10 @@ main {
     padding: 0 15px 15px 15px;
     height: 100%;
     gap: 15px;
+}
+
+/* Ensure SVG displays correctly */
+svg {
+    display: block; /* Prevents inline SVG from having extra space */
+    background-color: white; /* Ensures background is white */
 }

@@ -1,8 +1,8 @@
 {
   "id": "22c778",
-  "name": "Eleven Labs Conversational Ai",
+  "name": "Eleven Labs Conversational AI",
   "modes": [
     "canvas"
   ],
-  "icon": "/icon.svg"
+  "icon": "/elevenlabs.svg"
 }

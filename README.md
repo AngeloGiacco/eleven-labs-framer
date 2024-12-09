@@ -1,19 +1,11 @@
-# Framer Plugin Template
+# Eleven Labs x Framer 🎭🔊
 
-This is a template for using the Framer Plugin API in a TypeScript project.
+This is an unofficial integration between ElevenLabs and Framer, consisting of:
 
-## Quickstart
+- A Framer Plugin to add conversational AI widgets (src/*) 🤖
+- A shareable Code Component for embedding ElevenLabs conversational AI widget that can be visualised in the framer console (CodeComponent.tsx)🎙️
 
-First, run the development server:
+## Plugin Development
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Learn more: https://www.framer.com/developers/plugins/introduction
+Run the plugin development server:
+pnpm run dev
